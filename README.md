@@ -2,7 +2,7 @@
 ```
 Tracking burn-up charts and commentary in reverse chronological order...
 ```
-## 2020-05-01
+## 2020-05-08
 * Just about "done"!
 * Discussed some more CSS finding
 * Fork into our own personal GitHub accounts!
