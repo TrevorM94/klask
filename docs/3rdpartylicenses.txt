@@ -41,9 +41,6 @@ MIT
 @ionic-native/core
 MIT
 
-@ionic-native/screen-orientation
-MIT
-
 @ionic-native/splash-screen
 MIT
 
